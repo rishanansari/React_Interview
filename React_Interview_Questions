@@ -1,0 +1,110 @@
+1. Hooks
+useState
+useEffect
+useContext
+useReducer
+useMemo
+useCallback
+useRef
+
+2. Higher Order Components
+What?
+Why?
+When?
+How?
+
+3. Life Cycle Methods of Components
+Class Components
+Mounting
+Updating
+Unmounting
+
+4. State Management( all about data )
+state and props
+prop drilling
+React context api
+
+6. Redux/Zustand
+How?
+Why?
+When/need?
+Redux toolkit (RTK)
+
+7.Custom Hooks
+when to use?
+Why?
+Code for custom hooks.
+
+8. Lazy Loading
+code splitting
+chunking
+Suspense
+
+9. Virtual DOM
+Reconciliation
+React Fiber
+Componenet Renders
+Diffing Alog
+
+10. SSR & CSR
+What
+Difference
+SEO
+Performance
+
+11. Routing (Role Based Access Control)
+React Router
+Protected Routes
+Query Params
+Dynamic Routing
+
+12. Unit Testing
+React Tesing library
+
+13. Async  (Events)
+All API Calls
+Events
+UseEffect in depth
+Promises
+
+14. Resuability , Modularity (breaking down the code) , Testability , Readability
+Means of all these words.
+
+15. Performance (High level system design)
+SEO
+Shimmer UI (skeleton) - UX
+Lazy Loading 
+Asset Optimization (Image, video , pdf etc)
+write optimize code
+Bundlers
+Server level optimization
+Rendering of Components
+
+16. Styling
+Tailwind
+Style-X
+Ant-D
+Bootstrap
+Basic CSS / SCSS / Less / SAAS
+inline
+
+17. Accessibility
+Web Accessibility
+
+
+18. Security
+
+And Javascript concept.
+
+
+
+
+
+
+
+
+
+
+
+
+
